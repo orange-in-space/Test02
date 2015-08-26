@@ -10,6 +10,7 @@ namespace Test02
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(@"＞＜");
         }
     }
 }
